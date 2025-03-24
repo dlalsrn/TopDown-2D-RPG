@@ -31,6 +31,7 @@ Player을 조작하여 Object와 상호작용하며 퀘스트를 클리어하는
 
 ## 사용한 Asset
 - **탑다운 2D RPG 에셋 팩**: https://assetstore.unity.com/packages/2d/characters/top-down-2d-rpg-assets-pack-188718
+  - Player, Map
 - **심플 2D 플랫포머 에셋 팩**: https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518
   - Coin Image
 - **FREE Casual Game SFX Pack**: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
