@@ -55,5 +55,10 @@ https://velog.io/@lmg0052/series/Unity2D-TopDown-2D-RPG
 - **게임 플레이 영상 링크**: https://youtu.be/OHjIilAbgAY
 <br><br/>
 
+## 참고
+해당 프로젝트는 골드메탈님의 강의 영상을 참고하여 진행했음을 알립니다.
+
+https://www.youtube.com/watch?v=JY-KFx3OsJo&list=PLO-mt5Iu5TeYfyXsi6kzHK8kfjPvadC5u
+
 ## 연락처
 - **E-Mail**: qazzaq1541@gmail.com
